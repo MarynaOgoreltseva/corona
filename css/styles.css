@@ -470,8 +470,8 @@ body {
   .media-stay-save {
     padding: 56px 0px 27px 0px;
   }
-  .stay-save__media {
-    padding: 0 0 0 47px;
+  .stay-save__content {
+    padding-left: 0;
   }
   .expert__body {
     flex-direction: column;
